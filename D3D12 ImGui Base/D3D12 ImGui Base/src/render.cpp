@@ -210,6 +210,7 @@ LRESULT __stdcall DXUI::WndProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lPara
     if (ImGui_ImplWin32_WndProcHandler(hWnd, msg, wParam, lParam))
         return true;
 
+
     switch (msg)
     {
     case WM_SIZE:

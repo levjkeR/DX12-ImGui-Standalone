@@ -151,6 +151,10 @@
     <ClInclude Include="src\imgui\imstb_textedit.h" />
     <ClInclude Include="src\imgui\imstb_truetype.h" />
     <ClInclude Include="src\misc\fonts\FiraCodeFamily.h" />
+    <ClInclude Include="src\misc\fonts\FontAwesome6.h" />
+    <ClInclude Include="src\misc\fonts\ForkAwesome.h" />
+    <ClInclude Include="src\misc\fonts\IconsFamily.h" />
+    <ClInclude Include="src\misc\fonts\MaterialDesign.h" />
     <ClInclude Include="src\misc\fonts\RobotoFamily.h" />
     <ClInclude Include="src\render.h" />
   </ItemGroup>

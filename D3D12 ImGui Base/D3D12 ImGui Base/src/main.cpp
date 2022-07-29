@@ -10,7 +10,7 @@ void HideConsole()
 
 int main()
 {
-	HideConsole();
+	//HideConsole();
 	DXUI::RenderLoop();
 	return 0;
 }
